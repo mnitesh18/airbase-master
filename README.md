@@ -43,7 +43,7 @@ This is a sample skeleton pom using Airbase:
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>io.airlift</groupId>
+    <groupId>io.satvat</groupId>
     <artifactId>airbase</artifactId>
     <version> ... current version ...</version>
   </parent>
